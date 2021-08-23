@@ -1,0 +1,12 @@
+Source: flat-remix-gtk-theme
+Section: x11
+Priority: optional
+Maintainer: Gooroom <gooroom@gooroom.kr>
+Build-Depends: debhelper (>= 11)
+Standards-Version: 4.2.1
+
+Package: flat-remix-gtk-theme
+Architecture: all
+Depends: ${misc:Depends}
+Description: Flat Remix gtk theme
+ Flat Remix GTK theme is a pretty simple gtk window theme inspired on material design following a modern design using "flat" colors with high contrasts and sharp borders.
