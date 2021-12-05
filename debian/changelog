@@ -1,6 +1,6 @@
-flat-remix-gtk-theme (0.1.0) unstable; urgency=medium
+flat-remix-gtk-theme (0.3.0+grm3u1) unstable; urgency=medium
 
   * Initial Release.
 
- -- Gooroom <gooroom@gooroom.kr>  Sat, 21 Aug 2021 17:17:56 +0900
+ -- Gooroom Autobuilder <jenkins@gooroom.kr>  Sun, 05 Dec 2021 16:12:14 +0900
 
