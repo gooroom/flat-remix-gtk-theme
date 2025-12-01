@@ -1,3 +1,9 @@
+flat-remix-gtk-theme (5.0.0+grm5~alpha1) UNRELEASED; urgency=medium
+
+  * Rebuild for gooroom-5.0
+
+ -- jongkyung.woo <jkwoo@gooroom.kr>  Mon, 01 Dec 2025 19:23:17 +0900
+
 flat-remix-gtk-theme (0.3.0+grm4u1) unstable; urgency=medium
 
   [ jongkyung.woo ]

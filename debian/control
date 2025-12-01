@@ -2,8 +2,8 @@ Source: flat-remix-gtk-theme
 Section: x11
 Priority: optional
 Maintainer: Gooroom <gooroom@gooroom.kr>
-Build-Depends: debhelper (>= 11)
-Standards-Version: 4.2.1
+Build-Depends: debhelper-compat (= 13)
+Standards-Version: 4.7.0
 
 Package: flat-remix-gtk-theme
 Architecture: all
