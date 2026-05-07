@@ -1,3 +1,9 @@
+flat-remix-gtk-theme (5.0.0+grm5u1) gooroom-5.0; urgency=medium
+
+  * local package: Release for gooroom-5.0
+
+ -- jongkyung.woo <jkwoo@gooroom.kr>  Thu, 07 May 2026 15:59:12 +0900
+
 flat-remix-gtk-theme (5.0.0+grm5~alpha1) UNRELEASED; urgency=medium
 
   * Rebuild for gooroom-5.0
